@@ -15,9 +15,9 @@ import com.capgemini.bankapp.service.impl.BankAccountServiceImpl;
 import com.capgemini.bankapp.service.*;
 import com.capgemini.model.*;
 
-public class BankaccountClient {
+public class BankAccountClient {
 
-	//static final Logger logger=Logger.getLogger(BankaccountClient.class);
+	//static final Logger logger=Logger.getLogger(BankAccountClient.class);
 
 	public static void main(String[] args) throws BankAccountNotFoundException {
 
